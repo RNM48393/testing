@@ -37,6 +37,8 @@ To provide an efficient, secure, and transparent invoicing platform that empower
 - Built on the Request Network, ensuring secure and immutable transactions.  
 - Scalable for businesses of any size.  
 
+- Contract deployment link - https://testnet.bscscan.com/address/0xF426eBf74b4546d8d81fA2F0B4B6929dD9437114
+
 ---
 
 ## **Tech Stack**  
